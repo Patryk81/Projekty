@@ -3,3 +3,7 @@ p{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 p{font-size: larger;}
 body{background-color: wheat;}
 #warka{color: skyblue;}
+div
+{
+    max-width: 700px;
+}
